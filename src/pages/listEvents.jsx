@@ -107,6 +107,7 @@ function listEvents() {
                   <TableCell align="center">Descrição</TableCell>
                   <TableCell align="center">Horário</TableCell>
                   <TableCell align="center">local</TableCell>
+                  <TableCell align="center"></TableCell>
                 </TableRow>
               </TableHead>
               <TableBody>{listEvents}</TableBody>
